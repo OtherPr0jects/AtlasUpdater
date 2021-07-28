@@ -1,2 +1,2 @@
 # AtlasUpdater
-Update downloader for Atlas
+Update downloader for Atlas External
